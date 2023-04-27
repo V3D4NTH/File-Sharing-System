@@ -44,7 +44,7 @@ Secure File Sharing P2P application. Developed using SpringMVC framework, built 
 ````
 
 > **Note**
->> Before Running the Project Setup and connect the Mongodb 
+>> Before Running the Project and connect the Mongodb 
 >>> Create a Database name with **FileDB1** and **FileDB2** Two Database
  
 > OOADJ Project 2023
